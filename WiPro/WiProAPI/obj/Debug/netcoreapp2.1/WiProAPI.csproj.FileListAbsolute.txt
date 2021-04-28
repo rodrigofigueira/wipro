@@ -1,0 +1,17 @@
+C:\desenvolvimento\net\TesteWiPro\WiPro\WiProAPI\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\desenvolvimento\net\TesteWiPro\WiPro\WiProAPI\bin\Debug\netcoreapp2.1\appsettings.json
+C:\desenvolvimento\net\TesteWiPro\WiPro\WiProAPI\bin\Debug\netcoreapp2.1\WiProAPI.deps.json
+C:\desenvolvimento\net\TesteWiPro\WiPro\WiProAPI\bin\Debug\netcoreapp2.1\WiProAPI.runtimeconfig.json
+C:\desenvolvimento\net\TesteWiPro\WiPro\WiProAPI\bin\Debug\netcoreapp2.1\WiProAPI.runtimeconfig.dev.json
+C:\desenvolvimento\net\TesteWiPro\WiPro\WiProAPI\bin\Debug\netcoreapp2.1\WiProAPI.dll
+C:\desenvolvimento\net\TesteWiPro\WiPro\WiProAPI\bin\Debug\netcoreapp2.1\WiProAPI.pdb
+C:\desenvolvimento\net\TesteWiPro\WiPro\WiProAPI\obj\Debug\netcoreapp2.1\WiProAPI.AssemblyInfoInputs.cache
+C:\desenvolvimento\net\TesteWiPro\WiPro\WiProAPI\obj\Debug\netcoreapp2.1\WiProAPI.AssemblyInfo.cs
+C:\desenvolvimento\net\TesteWiPro\WiPro\WiProAPI\obj\Debug\netcoreapp2.1\WiProAPI.csproj.CoreCompileInputs.cache
+C:\desenvolvimento\net\TesteWiPro\WiPro\WiProAPI\obj\Debug\netcoreapp2.1\WiProAPI.RazorAssemblyInfo.cache
+C:\desenvolvimento\net\TesteWiPro\WiPro\WiProAPI\obj\Debug\netcoreapp2.1\WiProAPI.RazorAssemblyInfo.cs
+C:\desenvolvimento\net\TesteWiPro\WiPro\WiProAPI\obj\Debug\netcoreapp2.1\WiProAPI.RazorTargetAssemblyInfo.cache
+C:\desenvolvimento\net\TesteWiPro\WiPro\WiProAPI\obj\Debug\netcoreapp2.1\WiProAPI.dll
+C:\desenvolvimento\net\TesteWiPro\WiPro\WiProAPI\obj\Debug\netcoreapp2.1\WiProAPI.pdb
+C:\desenvolvimento\net\TesteWiPro\WiPro\WiProAPI\obj\Debug\netcoreapp2.1\WiProAPI.genruntimeconfig.cache
+C:\desenvolvimento\net\TesteWiPro\WiPro\WiProAPI\obj\Debug\netcoreapp2.1\WiProAPI.csprojAssemblyReference.cache

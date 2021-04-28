@@ -1,0 +1,12 @@
+C:\desenvolvimento\net\TesteWiPro\ConsoleApp\bin\Debug\netcoreapp2.1\ConsoleApp.deps.json
+C:\desenvolvimento\net\TesteWiPro\ConsoleApp\bin\Debug\netcoreapp2.1\ConsoleApp.runtimeconfig.json
+C:\desenvolvimento\net\TesteWiPro\ConsoleApp\bin\Debug\netcoreapp2.1\ConsoleApp.runtimeconfig.dev.json
+C:\desenvolvimento\net\TesteWiPro\ConsoleApp\bin\Debug\netcoreapp2.1\ConsoleApp.dll
+C:\desenvolvimento\net\TesteWiPro\ConsoleApp\bin\Debug\netcoreapp2.1\ConsoleApp.pdb
+C:\desenvolvimento\net\TesteWiPro\ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp.AssemblyInfoInputs.cache
+C:\desenvolvimento\net\TesteWiPro\ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp.AssemblyInfo.cs
+C:\desenvolvimento\net\TesteWiPro\ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\desenvolvimento\net\TesteWiPro\ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp.dll
+C:\desenvolvimento\net\TesteWiPro\ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp.pdb
+C:\desenvolvimento\net\TesteWiPro\ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp.genruntimeconfig.cache
+C:\desenvolvimento\net\TesteWiPro\ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp.csprojAssemblyReference.cache
